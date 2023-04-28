@@ -1,0 +1,134 @@
+bad-word-finder - https://github.com/Zibilyonik/bad-word-finder
+
+      a go app for finding and censoring bad words in a given text
+    
+
+bill_splitter - https://github.com/Zibilyonik/bill_splitter
+No description provided
+
+Bootstrap - https://github.com/Zibilyonik/Bootstrap
+
+      Replica of a website created by using Bootstrap
+    
+
+bus-company-python - https://github.com/Zibilyonik/bus-company-python
+No description provided
+
+coffee-maker - https://github.com/Zibilyonik/coffee-maker
+
+      a simple app to simulate a mediocre coffee experience
+    
+
+currency_converter_python - https://github.com/Zibilyonik/currency_converter_python
+No description provided
+
+duplicate-file-handler - https://github.com/Zibilyonik/duplicate-file-handler
+
+      An app to check whether a given file is duplicate in a directory or not
+    
+
+enum-method - https://github.com/Zibilyonik/enum-method
+
+      A handmade version of the Enumerable methods
+    
+
+Enumerable-rspec - https://github.com/Zibilyonik/Enumerable-rspec
+
+      Rspec specifications for Enumerable project
+    
+
+fcc-test-suite-template - https://github.com/Zibilyonik/fcc-test-suite-template
+No description provided
+
+flashcards - https://github.com/Zibilyonik/flashcards
+
+      a GoLang app for learning with flashcards
+    
+
+flashcards-python - https://github.com/Zibilyonik/flashcards-python
+No description provided
+
+genre-track - https://github.com/Zibilyonik/genre-track
+
+      A project made to allow users to create genres and games, and connect both to organize their library.
+    
+
+go-intro - https://github.com/Zibilyonik/go-intro
+
+      First ever Go project
+    
+
+go-potato-bot - https://github.com/Zibilyonik/go-potato-bot
+
+      a simple bot created for one simple question - potato.
+    
+
+Gradient-Background - https://github.com/Zibilyonik/Gradient-Background
+
+      Solo project of old Apple website replica
+    
+
+hangman-python - https://github.com/Zibilyonik/hangman-python
+No description provided
+
+hello-app - https://github.com/Zibilyonik/hello-app
+No description provided
+
+hello-world - https://github.com/Zibilyonik/hello-world
+
+      Starting potato stuff
+    
+
+intro-node.js - https://github.com/Zibilyonik/intro-node.js
+
+      First ever Node.js project
+    
+
+intro_python - https://github.com/Zibilyonik/intro_python
+
+      intro project for the python learning path
+    
+
+leaderboard-api - https://github.com/Zibilyonik/leaderboard-api
+
+      A leaderboard display that pulls data from API calls.
+    
+
+library-project - https://github.com/Zibilyonik/library-project
+
+      A project to keep track of books a user has read, using JS and basic HTML/ CSS
+    
+
+members_only - https://github.com/Zibilyonik/members_only
+
+      A small project where the users can make posts and view the authors of the posts, but guests cannot view the authors
+    
+
+NYTimesReplica - https://github.com/Zibilyonik/NYTimesReplica
+
+      Replica of an article in NYT
+    
+
+olympic-app - https://github.com/Zibilyonik/olympic-app
+
+      Olympic Flippy Cards for fun!
+    
+
+olympic-gold-msbuild - https://github.com/Zibilyonik/olympic-gold-msbuild
+
+      Building an interactive and responsive version of Tokyo 2020 website
+    
+
+password-hacker-python - https://github.com/Zibilyonik/password-hacker-python
+No description provided
+
+pizza-api - https://github.com/Zibilyonik/pizza-api
+
+      An API created using .NET and C#, following Microsoft's "Create a web API project" exercise
+    
+
+portfolio - https://github.com/Zibilyonik/portfolio
+
+      A personal portfolio project.
+    
+
